@@ -9,4 +9,3 @@ numpy
 matplotlib
 bs4
 lxml
-punkt_tab
