@@ -14,6 +14,9 @@ from io import BytesIO
 import base64
 from wordcloud import WordCloud
 
+nltk.download('punkt')
+nltk.download('punkt_tab')
+
 # Download NLTK resources if needed
 try:
     nltk.data.find('corpora/stopwords')

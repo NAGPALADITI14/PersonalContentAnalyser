@@ -9,6 +9,9 @@ from bs4 import BeautifulSoup
 from collections import Counter
 import numpy as np
 
+nltk.download('punkt')
+nltk.download('punkt_tab')
+
 # Download NLTK resources if needed
 try:
     nltk.data.find('corpora/stopwords')
