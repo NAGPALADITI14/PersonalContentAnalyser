@@ -3,3 +3,7 @@ plotly
 wordcloud
 scikit-learn
 streamlit
+beautifulsoup4
+pandas
+numpy
+matplotlib
