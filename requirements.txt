@@ -9,4 +9,8 @@ numpy
 matplotlib
 bs4
 lxml
+<<<<<<< HEAD
 punkt_tab
+=======
+punkt_tab
+>>>>>>> 64fa9d2820aae4858ee9f4af5c4db342f403adc4
